@@ -1,9 +1,7 @@
 # SecureVault Password Manager
 
 **A-Level Computer Science Coursework Project**  
-**Student:** [Your Name]  
-**Exam Board:** [Your Exam Board]  
-**Centre Number:** [Your Centre Number]  
+**Authors:** Franco Lee and David Sun
 
 ## Project Overview
 

@@ -121,7 +121,7 @@ class PasswordManager:
         
         # Generate password
         # Initially I used random.choice but learned about more secure methods
-        # For now, keeping it simple for A-Level project
+        # For now, keeping it simple for this supercurricular project
         password = ''.join(random.choice(chars) for _ in range(length))
         
         return password

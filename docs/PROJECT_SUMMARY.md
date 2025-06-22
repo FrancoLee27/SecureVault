@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-SecureVault is a desktop password manager application developed as my A-Level Computer Science coursework project. The application demonstrates practical implementation of cryptographic security principles while providing a user-friendly interface for secure password management.
+SecureVault is a desktop password manager application developed as a supercurricular project to explore cryptography and secure software development. The application demonstrates practical implementation of cryptographic security principles while providing a user-friendly interface for secure password management.
 
 ## Project Statistics
 

@@ -1072,7 +1072,7 @@ class PasswordManagerGUI:
         about_text = """SecureVault Password Manager
 Version 1.0
 
-A-Level Computer Science Coursework Project
+Supercurricular Project
 
 This application provides secure password storage
 using encryption to protect your sensitive data.

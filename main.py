@@ -1,11 +1,8 @@
 #!/usr/bin/env python3
 """
 SecureVault Password Manager
-A-Level Computer Science Coursework Project
-Student: [Your Name]
-Date Started: [Current Date]
-
-Main entry point for the application
+Supercurricular Project
+Main entry point for the application.
 """
 
 import sys

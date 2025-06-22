@@ -1,6 +1,6 @@
 # SecureVault Password Manager
 
-**A-Level Computer Science Coursework Project**  
+**Supercurricular Project**  
 **Authors:** Franco Lee and David Sun
 
 ## Project Overview
@@ -157,7 +157,7 @@ SecureVault/
 
 ## Development Process
 
-This project was developed as part of my A-Level Computer Science coursework. The development process included:
+This project was developed as a supercurricular project to explore cryptography and secure application development. The development process included:
 
 1. **Research Phase**: Learning about encryption, password security, and GUI development
 2. **Design Phase**: Creating UI mockups and planning the application structure
@@ -197,8 +197,8 @@ If I were to continue developing this project, I would add:
 
 ## License
 
-This is an educational project created for A-Level Computer Science coursework.
+This is an educational project created as a supercurricular project to explore secure software development.
 
 ---
 
-**Note**: This application is created for educational purposes as part of an A-Level Computer Science project. While it implements real security measures, it should not be used for storing highly sensitive information in a production environment. 
+**Note**: This application is created for educational purposes as a supercurricular project. While it implements real security measures, it should not be used for storing highly sensitive information in a production environment. 
